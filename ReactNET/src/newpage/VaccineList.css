@@ -1,0 +1,21 @@
+.vaccine-list-container {
+  padding: 1rem;
+}
+
+.error {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.table th,
+.table td {
+  text-align: center;
+}
+
+.table button {
+  margin-right: 0.5rem;
+}
+
+.back-button {
+  margin-top: 1rem;
+}

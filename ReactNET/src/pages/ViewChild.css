@@ -1,0 +1,49 @@
+/* ViewChild.css */
+.view-child-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background-color: #ffffff; /* White background */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.view-child-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333333; /* Dark text color for better readability */
+}
+
+.view-child-container .error {
+  color: #ff0000; /* Red text for error messages */
+  margin-bottom: 20px;
+}
+
+.view-child-details p {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #333333; /* Dark text color for paragraphs */
+}
+
+.view-child-details strong {
+  display: inline-block;
+  width: 150px; /* Adjust width for consistent alignment */
+  font-weight: bold;
+  color: #555555; /* Slightly lighter color for labels */
+}
+
+.view-child-container button {
+  margin-top: 20px;
+  border-radius: 4px; /* Rounded corners for buttons */
+}
+
+.view-child-container .btn-success {
+  background-color: #28a745; /* Success button color */
+  border-color: #28a745;
+  color: #ffffff; /* White text color */
+}
+
+.view-child-container .btn-success:hover {
+  background-color: #218838; /* Darker shade on hover */
+  border-color: #1e7e34;
+}
